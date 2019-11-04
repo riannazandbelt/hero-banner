@@ -24,11 +24,9 @@ body {
 
 .banner-content {
   position: absolute;
-  display: flex;
-  flex-wrap: wrap;
-  z-index: 1000;
   bottom: 0;
   max-width: 50em;
+  width: 100%;
   left: 50%;
   transform: translateX(-50%);
   max-height: 500px;
